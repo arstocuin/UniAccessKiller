@@ -69,5 +69,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#实现基于psutil的kill方法，比起.bat的taskkill要强力
